@@ -2,7 +2,7 @@
 
 ### Preview
 
-<http://2048.pin.bo>
+<https://2048.pin.bo>
 
 ### Screenshot
 
